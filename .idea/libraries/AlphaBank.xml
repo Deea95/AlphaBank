@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="AlphaBank">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AlphaBank/out/production/AlphaBank/mysql-connector-java-5.1.48.zip!/" />
+      <root url="jar://$PROJECT_DIR$/AlphaBank/out/production/AlphaBank/mysql-connector-java-5.1.48.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AlphaBank/out/production/AlphaBank/mysql-connector-java-5.1.48-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
